@@ -1,0 +1,53 @@
+body{
+    background-color: #acbbce
+}
+.Main {
+    font-family: fantasy;
+    justify-content: space-between;
+    justify-self: center;
+    align-self: center;
+    align-items: center;
+    text-align: center;
+    color: #1d2136;
+    display: flex;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    background-color: #A2A8A3;
+}
+.Grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Item {
+    font-family: fantasy;
+    border-radius: 20px;
+    background-color: #c2b9ab;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+}
+a:link {
+    color: #1d2136;
+}
+a:visited {
+    color: #1d2136;
+}
+.End {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: monospace;
+    background-color: #A2A8A3;
+}
+.Creditblock {
+    font-family: fantasy;
+    border-radius: 20px;
+    background-color: #c2b9ab;
+    padding: 20px;
+    margin: 25px;
+    width: 310px;
+    text-align: center;
+}
